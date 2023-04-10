@@ -1,1 +1,0 @@
-code ini memiliki class yang hanya menampung data, maka dari itu class tersebut dapat dibilang class yang memiliki fungsionalitas kecil. untuk mengatasi ini Saya menambahkan method yang dapat membuat code ini lebih berguna.
